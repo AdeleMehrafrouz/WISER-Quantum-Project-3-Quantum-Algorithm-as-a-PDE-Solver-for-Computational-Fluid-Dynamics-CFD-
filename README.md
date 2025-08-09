@@ -13,7 +13,7 @@ This work was conducted as part of the ** WISER Quantum Program 2025**.
 
 ## Project Structure
 
-
+```
 project3-quantum-cfd/
 ├── src/
 │   ├── burgers_hse_solver.py          # HSE implementation
@@ -36,7 +36,7 @@ project3-quantum-cfd/
 │   ├── algorithm_brief.pdf            # technical design description
 │── README.md                          # Project overview and instructions
 └── run_all.ipynb                      # Full walkthrough notebook
-
+```
 
 
 ## Problem Background
