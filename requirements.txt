@@ -1,8 +1,8 @@
 numpy>=1.21
 scipy>=1.7
 matplotlib>=3.5
-tensornetwork>=0.4.6         # For MPS/TN operations (optional)
-pennylane>=0.32              # If using PennyLane MPS backend (optional)
+tensornetwork>=0.4.6         
+pennylane>=0.32              
 notebook
 qiskit-aer
 qiskit-ibm-provider
