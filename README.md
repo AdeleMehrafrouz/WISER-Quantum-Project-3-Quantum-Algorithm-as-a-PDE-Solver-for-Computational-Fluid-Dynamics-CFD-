@@ -94,7 +94,3 @@ It is widely used as a simplified model of incompressible Navier–Stokes flow.
 - Start with a grid size of N=16 and short time integration to keep circuit depth low.
 - Use `Aer` noise models or real QPUs via IBMQ for noisy runs.
 - All code is modular and ready for extension to 2D/3D solvers.
-
-## Challenge
-
-This project contributes to the **WISER 2025 Quantum Challenge** under the Quantum CFD Simulation category.
