@@ -9,7 +9,7 @@ I implement and benchmark two methods:
 - **Hydrodynamic Schrödinger Equation (HSE)**: Reformulates Burgers' equation as a quantum wavefunction evolution and simulates it on quantum circuits.
 - **Quantum Tensor Network (QTN)**: Uses matrix product states (MPS) to compress and evolve the velocity field, leveraging quantum-inspired classical computing.
 
-This work was conducted as part of the ** WISER Quantum Program 2025**.
+This work was conducted as part of the **WISER Quantum Program 2025**.
 
 ## Project Structure
 
